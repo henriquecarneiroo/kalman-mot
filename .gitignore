@@ -1,0 +1,11 @@
+# Vídeos pesados
+data/
+
+.venv/
+
+# Pesos de redes neurais
+*.pt
+
+# Cache do Python
+__pycache__/
+*.pyc
